@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on [Percepco]
+- 🔭 CEO at  [Percepco]
 
-- 🌱 I’m currently learning **React native , React Js**
+- 🌱 I’m currently working on **React native , React Js**
 
 - 👯 I’m looking to collaborate on [Tablet Softwares](https://github.com/shkibrahim/Esperanza)
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobseeker-profile--profile-one-frontend](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobseeker-profile--profile-one-frontend)
 
-- ⚡ Fun fact **I think I am funny because I write codes that work**
+- ⚡ Fun fact **I think I am Genius because I write codes that work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
