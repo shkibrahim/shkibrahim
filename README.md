@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [Tablet Softwares](https://github.com/shkibrahim/Esperanza)
 
-- 🤝 I’m looking for help with [React native share features](https://github.com/react-native-share/react-native-share)
-
 - 👨‍💻 All of my projects are available at [https://github.com/shkibrahim](https://github.com/shkibrahim)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ibrahim-sheikh-815780126/](https://www.linkedin.com/in/ibrahim-sheikh-815780126/)
