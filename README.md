@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **sheikhibrahim026@gmail.com**
 
-- 📄 Know about my experiences [https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobseeker-profile--profile-one-frontend](https://profile.indeed.com/?hl=en_PK&co=PK&from=gnav-jobseeker-profile--profile-one-frontend)
 
 - ⚡ Fun fact **I think I am Genius because I write codes that work**
 
