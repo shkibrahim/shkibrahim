@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I'm currently working on:<br>A social mobile app named Natter.<br><br>🤝 I'm looking to collaborate on:<br>Creating web and TV apps with React Native.<br><br>🔍 I'm looking for help with:<br>Innovative ideas for improving user interaction on mobile platforms.<br><br>🌱 I'm currently learning:<br>Advanced React Native techniques for cross-platform development.<br><br>💬 Ask me about:<br>Mobile app development, React Native, or tips for building scalable apps.<br><br>⚡ Fun fact:<br>I’ve built apps for both Android and iOS using a single codebase!
+🎯 I'm currently as a:<br>Senior React native Developer at Percepco.<br><br>🤝 I'm looking to collaborate on:<br>Creating web and TV apps with React Native.<br><br>🔍 I'm looking for help with:<br>Innovative ideas for improving user interaction on mobile platforms.<br><br>🌱 I'm currently learning:<br>Advanced React Native techniques for cross-platform development.<br><br>💬 Ask me about:<br>Mobile app development, React Native, or tips for building scalable apps.<br><br>⚡ Fun fact:<br>I’ve built apps for both Android and iOS using a single codebase!
 
 
 # 💻 Tech Stack:
